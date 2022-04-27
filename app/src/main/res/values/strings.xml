@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MVVM Pattern in Room Database</string>
+    <string name="title_1">Parisubalan Tasks</string>
+
+    <string name="title1">Room Database Task (MVVM)</string>
+    <string name="et_name">Name</string>
+    <string name="et_native">Native</string>
+    <string name="et_age">Age</string>
+    <string name="et_mark">Mark</string>
+    <string name="update">Update</string>
+    <string name="insert">Insert</string>
+    <string name="delete">Delete</string>
+</resources>
